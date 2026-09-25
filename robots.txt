@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rfernandof.github.io/fernando-rodriguez-higiene-seguridad/sitemap.xml
